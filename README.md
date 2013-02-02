@@ -29,15 +29,25 @@ Development
 * Pick an issue for the lesson you are going to update.
 * Start collaborating.
 
+Issues
+-------
+
+Go to [open issues](https://github.com/mswl-2012-2013/mswl-project-management-notebook/issues?state=open) and select one.
+
+There are two types, *summary* and *revision* for each lesson. Every new lesson has two issues, two ways of collaboration.
+
 You have two basic options to collaborate:
 
-Online
--------
+Collaborate
+------------
+
+There are two ways to collaborate through wiki.
+
+###  Online
 
 Go to [Project Management Wiki](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki) and edit online.
 
-Offline
---------
+### Offline
 
 You can use Github wiki like a git repository.
 
