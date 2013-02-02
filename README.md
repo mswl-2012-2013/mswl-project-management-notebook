@@ -34,7 +34,7 @@ You have two basic options to collaborate:
 Online
 -------
 
-Go to [Project Management Wiki](https://github.com/mswlEco2012/mswl-project-management-notebook/wiki) and edit online.
+Go to [Project Management Wiki](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki) and edit online.
 
 Offline
 --------
