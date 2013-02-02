@@ -16,10 +16,11 @@ Requirements
 Wiki Notebook
 ==============
 
-* Lesson 0: `Presentation of the course`.
-* Lesson 1: `Introduction to the infrastructure used by Libre Software Communities`.
-* Lesson 2: `Communicaton, outreach and netiquette`.
-* Lesson 3: `Management of FLOSS projects`.
+* Lesson 0:  [`Project management subject`](../wiki/Project-Management-notebook).
+* Lesson 1: [`Introduction to the infrastructure used by Libre Software Communities`](../wiki/Introduction-to-the-infrastructure-used-by-Libre-Software-Communities)
+.
+* Lesson 2: [`Communicaton, outreach and netiquette`](../wiki/Communicaton,-outreach-and-netiquette).
+* Lesson 3: [`Management of FLOSS projects`](../wiki/Management-of-FLOSS-projects).
 * Lesson 4: **TBC**.
 * Lesson 5: **TBC**.
 
