@@ -62,7 +62,13 @@ Go to your clone repository and launch gollum:
 ```
 $ cd mswl-project-management-notebook.git
 $ gollum
+[2013-02-02 10:37:51] INFO  WEBrick 1.3.1
+[2013-02-02 10:37:51] INFO  ruby 1.8.7 (2011-06-30) [x86_64-linux]
+== Sinatra/1.3.4 has taken the stage on 4567 for development with backup from WEBrick
+[2013-02-02 10:37:56] INFO  WEBrick::HTTPServer#start: pid=3853 port=4567
 ```
+
+Go to `localhost:4567` and start editing.
 
 Every change you save becomes a commit, so to push your changes you only have to launch **git push**:
 
