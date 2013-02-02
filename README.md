@@ -26,8 +26,8 @@ Wiki Notebook
 Development
 ============
 
-# Pick an issue for the lesson you are going to update.
-# Start collaborating.
+* Pick an issue for the lesson you are going to update.
+* Start collaborating.
 
 You have two basic options to collaborate:
 
