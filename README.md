@@ -6,7 +6,7 @@ Project Management Notebook - Master on Libre Software (URJC - GSyC/Libresoft) h
 Introduction
 =============
 
-**TBC**
+Project Management shows the process of creating a community of software, the actors involved, the communication between them, the tools, governance, and self-management.
 
 Requirements
 =============
@@ -16,7 +16,7 @@ Requirements
 Wiki Notebook
 ==============
 
-* Lesson 0:  [`Project management subject`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Project-Management-notebook).
+* Lesson 0:  [`Project management subject`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki).
 * Lesson 1: [`Introduction to the infrastructure used by Libre Software Communities`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Introduction-to-the-infrastructure-used-by-Libre-Software-Communities)
 .
 * Lesson 2: [`Communication, outreach and netiquette`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Communication,-outreach-and-netiquette).
