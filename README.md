@@ -19,7 +19,7 @@ Wiki Notebook
 * Lesson 0:  [`Project management subject`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Project-Management-notebook).
 * Lesson 1: [`Introduction to the infrastructure used by Libre Software Communities`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Introduction-to-the-infrastructure-used-by-Libre-Software-Communities)
 .
-* Lesson 2: [`Communicaton, outreach and netiquette`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Communicaton,-outreach-and-netiquette).
+* Lesson 2: [`Communication, outreach and netiquette`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Communication,-outreach-and-netiquette).
 * Lesson 3: [`Management of FLOSS projects`](https://github.com/mswl-2012-2013/mswl-project-management-notebook/wiki/Management-of-FLOSS-projects).
 * Lesson 4: **TBC**.
 * Lesson 5: **TBC**.
