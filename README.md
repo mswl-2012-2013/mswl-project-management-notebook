@@ -12,7 +12,8 @@ Requirements
 =============
 
 * Use markdown syntax: http://github.github.com/github-flavored-markdown/ and this extended guide for markdown http://daringfireball.net/projects/markdown/syntax.
-* An useful link for Ruby installation would be: http://www.getvines.org/ruby
+* An useful link for Ruby installation would be: http://www.getvines.org/
+* And for Ruby linux packages:  http://pkgs.org
 
 Wiki Notebook
 ==============
