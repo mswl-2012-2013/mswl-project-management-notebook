@@ -64,11 +64,23 @@ Edit or add every page you need and push it to master.
 
 You can use [gollum](https://github.com/github/gollum) to launch a wiki editor offline in your local copy of the repository.
 
+#### Requirements
+
+For use Gollum you need to install Ruby in your machine. Version >= 1.8.7.
+
+You can see this easy step by step tutorial for different Operative Systems:
+
+    http://www.getvines.org/ruby/
+
+#### Install
+
 Install gollum gem:
 
 ```
 $ [sudo] gem install gollum
 ```
+
+#### Run
 
 Go to your clone repository and launch gollum:
 
